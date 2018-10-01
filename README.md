@@ -1,10 +1,12 @@
 # BlockpassHack
-Problems
+
+## Problems
+
 When crisis hits on a national level, many people are displaced. These displaced populations are faced with tremendous risk of losing content that define their persona or aspects of their identities. Such contexts lost include birth certificates, governmental ID, driving licenses, health records, university certification, work history, employer references, bank account records, credit history documents, etc. 
 
 When this happens the displaced people must as refugees reconstitute their identity. Unfortunately with their previous context being destroyed, and no means to reconstitute it they are often required start over. However when starting over they may not have their old credential but they do still retain the knowledge and can thus prove competency given a chance. However bootstrapping their identity is currently not easy due to lack of already built out infrastructure, however this is changing. 
 
-Solutions
+## Solutions
 Thanks to the workings of the Digital Identity Foundation, RBTWOT and W3C, we can now build out the required interoperable infrastructure to solve many of the problems faced by displaced persons. Older schema like OpenBadges have been ported into the distributed ledger space, and standards like DID, DDO’s and Verifiable Credentials allow individuals to make provable assertions around their identity. 
 
 To bootstrap an identity that’s been lost due to the disappearance of the cert issuing authorities (government, university et. al), we must start from a grassroots context. This, by necessity, MUST be a community reputation system allowing individuals to issue attestations within their own a web-of-trust. To be useful, this grassroots WOT must find equivalence AND interoperability within the first world so that members of a such a grassroots community can leverage an osmosis effect to pull themselves out of their displaced “invisible” context. 
